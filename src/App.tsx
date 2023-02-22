@@ -1,24 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {
+  Excalidraw,
+} from "@excalidraw/excalidraw";
+import { getFreeDrawSvgPath } from "@excalidraw/excalidraw";
+import { ExcalidrawElement, ExcalidrawFreeDrawElement } from "@excalidraw/excalidraw/types/element/types";
 
 function App() {
+  const handleSceneUpdate = (elements: readonly ExcalidrawElement[], appState: any) => {
+    elements.forEach(element => {
+      if (element.type === "freedraw") {
+        const freehandElement = element as ExcalidrawFreeDrawElement;
+        const path = getFreeDrawSvgPath(freehandElement);
+        console.log(path);
+      }
+    });
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ height: "500px" }}>
+      <Excalidraw onChange={handleSceneUpdate}
+      />
     </div>
   );
 }
