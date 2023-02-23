@@ -1,9 +1,9 @@
-# The Drawing AI App
+# AI-Powered Drawing App
 
 🔗 Curious? Try out a [demo](https://codesandbox.io/p/github/shalomma/drawto/main?workspaceId=d9fb3aaa-6206-4ea5-af29-701286f5c9ea&file=%2Fsrc%2FApp.tsx&selection=%5B%7B%22endColumn%22%3A16%2C%22endLineNumber%22%3A8%2C%22startColumn%22%3A16%2C%22startLineNumber%22%3A8%7D%5D&workspace=%257B%2522activeFileId%2522%253A%2522clegv8ml0000dg4glar7dc8b6%2522%252C%2522openFiles%2522%253A%255B%2522%252FREADME.md%2522%252C%2522%252Fsrc%252FApp.tsx%2522%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522spaces%2522%253A%257B%2522clegv8o1d000x3b6jz4nvba0m%2522%253A%257B%2522key%2522%253A%2522clegv8o1d000x3b6jz4nvba0m%2522%252C%2522name%2522%253A%2522Default%2522%252C%2522devtools%2522%253A%255B%257B%2522type%2522%253A%2522PREVIEW%2522%252C%2522taskId%2522%253A%2522start%2522%252C%2522port%2522%253A3000%252C%2522key%2522%253A%2522clegv9dug00dn3b6jvatzgz1f%2522%252C%2522isMinimized%2522%253Afalse%257D%255D%257D%257D%252C%2522currentSpace%2522%253A%2522clegv8o1d000x3b6jz4nvba0m%2522%252C%2522spacesOrder%2522%253A%255B%2522clegv8o1d000x3b6jz4nvba0m%2522%255D%252C%2522hideCodeEditor%2522%253Afalse%257D).
 
 
-This is a simple drawing app built with React and Excalidraw. The app allows users to draw using a freehand tool, and outputs the SVG path data of the drawn lines to the console when the drawing is updated.
+This is an AI-powered drawing app built with React and Excalidraw. The app allows users to draw using a freehand tool, and uses a deep neural network to modify the user's drawing and make it more slick and professional.
 
 ## **Installation**
 
@@ -16,7 +16,7 @@ To install the app, follow these steps:
 
 ## **Usage**
 
-Once the app is running, you can use the freehand tool to draw on the canvas. The SVG path data of the drawn lines will be output to the console each time the drawing is updated.
+Once the app is running, you can use the freehand tool to draw on the canvas. The AI-powered algorithm will modify your drawing to make it look more professional and visually appealing. You can view the modified version of your drawing on the canvas.
 
 ## **Dependencies**
 
