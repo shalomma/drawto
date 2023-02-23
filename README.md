@@ -1,5 +1,10 @@
 # AI-Powered Drawing App
 
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1008571037862080542/1078326507455397978/maayan_Design_a_flat_logo_of_a_circle_gradient_flower_wrapped_a_d08a7b09-c73c-4fb9-87af-159a755b9027.png" width="300">
+</p>
+
+
 🔗 Curious? Try out a [demo](https://codesandbox.io/p/github/shalomma/drawto/main?workspaceId=d9fb3aaa-6206-4ea5-af29-701286f5c9ea&file=%2Fsrc%2FApp.tsx&selection=%5B%7B%22endColumn%22%3A16%2C%22endLineNumber%22%3A8%2C%22startColumn%22%3A16%2C%22startLineNumber%22%3A8%7D%5D&workspace=%257B%2522activeFileId%2522%253A%2522clegv8ml0000dg4glar7dc8b6%2522%252C%2522openFiles%2522%253A%255B%2522%252FREADME.md%2522%252C%2522%252Fsrc%252FApp.tsx%2522%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522spaces%2522%253A%257B%2522clegv8o1d000x3b6jz4nvba0m%2522%253A%257B%2522key%2522%253A%2522clegv8o1d000x3b6jz4nvba0m%2522%252C%2522name%2522%253A%2522Default%2522%252C%2522devtools%2522%253A%255B%257B%2522type%2522%253A%2522PREVIEW%2522%252C%2522taskId%2522%253A%2522start%2522%252C%2522port%2522%253A3000%252C%2522key%2522%253A%2522clegv9dug00dn3b6jvatzgz1f%2522%252C%2522isMinimized%2522%253Afalse%257D%255D%257D%257D%252C%2522currentSpace%2522%253A%2522clegv8o1d000x3b6jz4nvba0m%2522%252C%2522spacesOrder%2522%253A%255B%2522clegv8o1d000x3b6jz4nvba0m%2522%255D%252C%2522hideCodeEditor%2522%253Afalse%257D).
 
 
